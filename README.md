@@ -64,10 +64,10 @@ freelancing-portfolio/
 
 
 - Screenshots of the blog on GitHub Pages
-- i...  freelancing_portfolio.png
-- ii... freelancing_portfolio1.png
+- i...  [images/freelancing_portfolio.png]
+- ii... [images/freelancing_portfolio1.png]
 - Screenshot of the `images/` folder structure in the repo
-- 1... github_repo.png
+- 1... [images/github_repo_demo.png]
 
 ---
 
