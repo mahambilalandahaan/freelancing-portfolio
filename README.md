@@ -69,7 +69,7 @@ freelancing-portfolio/
 -
 - ## Screenshot of the `images/` folder structure in the repo
 -
-- [Github repo demo](images/github_repo_demo.png)
+- ![Github repo demo](images/github_repo_demo.png)
 
 ---
 
