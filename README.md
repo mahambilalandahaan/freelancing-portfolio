@@ -62,10 +62,12 @@ freelancing-portfolio/
 
 ## 📸 Screenshots
 
-*(Make sure to upload these images to your repo and reference them below)*
 
-- Screenshot of the blog on GitHub Pages  
-- Screenshot of the `images/` folder structure in the repo  
+- Screenshots of the blog on GitHub Pages
+- i...  freelancing_portfolio.png
+- ii... freelancing_portfolio1.png
+- Screenshot of the `images/` folder structure in the repo
+- 1... github_repo.png
 
 ---
 
