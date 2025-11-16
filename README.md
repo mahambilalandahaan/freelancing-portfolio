@@ -63,11 +63,13 @@ freelancing-portfolio/
 ## 📸 Screenshots
 
 
-- Screenshots of the blog on GitHub Pages
-- i...  [images/freelancing_portfolio.png]
-- ii... [images/freelancing_portfolio1.png]
-- Screenshot of the `images/` folder structure in the repo
-- 1... [images/github_repo_demo.png]
+- ## Screenshots of the blog on GitHub Pages
+- [Live Blog 1](images/freelancing_portfolio.png)
+- [Live Blog 2](images/freelancing_portfolio1.png)
+-
+- ## Screenshot of the `images/` folder structure in the repo
+-
+- [Github repo demo](images/github_repo_demo.png)
 
 ---
 
